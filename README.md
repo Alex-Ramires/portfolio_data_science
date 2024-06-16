@@ -1,1 +1,5 @@
-# portfolio_data_science
+# Portfólio Ciência de Dados
+
+# Projetos
+
+[Linkedin](https://www.linkedin.com/in/alexcramires/)
