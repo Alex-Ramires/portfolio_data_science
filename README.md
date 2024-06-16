@@ -4,5 +4,5 @@
 # Projetos
 * 
 
-# CONTATO
+# Contato
 * [LinkedIn](https://www.linkedin.com/in/alexcramires/)
