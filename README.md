@@ -1,5 +1,4 @@
 # Portfólio Ciência de Dados
-*
 
 # Projetos
 * 
